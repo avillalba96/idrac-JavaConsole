@@ -8,10 +8,7 @@
 
 ```bash
 sudo apt update
-sudo apt install default-jre
-sudo apt install default-jdk
-sudo apt install icedtea-netx
-sudo apt install wget
+sudo apt install -y default-jre default-jdk icedtea-netx wget
 ```
 
 * Editar encriptaciones necesarias para java:
